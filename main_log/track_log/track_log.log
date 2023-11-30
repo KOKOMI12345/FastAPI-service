@@ -1,0 +1,59 @@
+[2023-11-24 23:41:16.827] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 12:01:33.931] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-25 12:02:32.445] |INFO     | api.py | get_picture | line:27    |有人尝试获取图片,图片名字为 芙宁娜
+[2023-11-25 12:02:32.447] |INFO     | db_pool.py | get_conn | line:40    |获取到连接,当前被占用的连接数:1
+[2023-11-25 12:02:35.327] |INFO     | db_pool.py | release_conn | line:45    |释放连接,当前被占用的连接数:0
+[2023-11-25 12:04:40.376] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 12:06:06.666] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-25 12:11:33.657] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 13:00:52.184] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-25 13:01:09.116] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 13:11:53.709] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-25 13:12:12.942] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 13:39:46.858] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-25 13:39:49.359] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-25 13:42:47.156] |ERROR    | fixing.py | create | line:37    |创建数据库模型失败，原因为: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create Table API_music(\n   id int PRIMARY KEY,\n   filename VARCHAR(255),\n   user' at line 8")
+[2023-11-26 10:17:52.725] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 10:19:32.863] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 10:19:42.576] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 10:21:12.380] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 10:27:26.810] |INFO     | start.py | <module> | line:7     |API应用开启
+[2023-11-26 10:28:01.446] |INFO     | start.py | <module> | line:9     |API应用关闭
+[2023-11-26 15:33:46.127] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:34:22.780] |INFO     | api.py | download | line:138   |someone has spidered a video
+[2023-11-26 15:35:28.904] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:35:34.275] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:36:15.921] |INFO     | api.py | download | line:140   |someone has spidered a video
+[2023-11-26 15:38:12.673] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:38:16.897] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:38:23.973] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:39:00.290] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:39:03.708] |INFO     | api.py | download | line:140   |someone has spidered a video
+[2023-11-26 15:39:25.523] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:39:29.405] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:39:36.044] |INFO     | api.py | download | line:140   |someone has spidered a video
+[2023-11-26 15:40:34.885] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:51:20.351] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:51:27.497] |INFO     | core.py | download_bilibili_video | line:13    |someone has spidered a video
+[2023-11-26 15:53:10.558] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 15:53:19.013] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 15:53:24.180] |INFO     | core.py | download_bilibili_video | line:16    |someone has spidered a video
+[2023-11-26 15:53:49.450] |INFO     | core.py | download_bilibili_video | line:16    |someone has spidered a video
+[2023-11-26 15:54:53.898] |INFO     | core.py | download_bilibili_video | line:16    |someone has spidered a video
+[2023-11-26 15:55:14.335] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 16:01:34.276] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 16:01:59.863] |INFO     | api.py | download | line:139   |someone has spidered a video
+[2023-11-26 16:02:04.954] |INFO     | api.py | download | line:139   |someone has spidered a video
+[2023-11-26 16:09:03.034] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 16:09:07.079] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 16:09:30.409] |INFO     | api.py | download | line:139   |someone has spidered a video
+[2023-11-26 16:15:10.161] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 16:37:36.764] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 16:42:01.281] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 16:44:33.717] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 16:46:01.241] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 16:46:52.990] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 21:12:39.264] |INFO     | start.py | <module> | line:5     |API应用开启
+[2023-11-26 21:15:26.654] |INFO     | start.py | <module> | line:7     |API应用关闭
+[2023-11-26 21:16:42.876] |INFO     | start.py | <module> | line:5     |启动API应用
+[2023-11-26 21:22:16.536] |INFO     | start.py | <module> | line:31    |关闭了API应用
